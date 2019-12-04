@@ -1,0 +1,4 @@
+﻿Krzysztof;Testowski;41;1
+Magda;Czapska;35;1
+Marcin;Tomaszewski;20;0
+Agnieszka;Kaluzna;17;0

@@ -1,0 +1,5 @@
+﻿Implement a solution that returns information based on the date if:
+1. is the first day of the month
+2. is the last day of the month
+3. is in the first half of the month
+4. is in the second half of the month

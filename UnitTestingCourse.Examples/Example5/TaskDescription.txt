@@ -1,0 +1,1 @@
+﻿Implement a solution that downloads data from the data.txt file and maps it to the Person object
